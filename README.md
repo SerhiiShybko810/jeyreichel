@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Senior+FullStack+developer+....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Senior+FullStack+developer+....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -14,7 +14,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Jey Reichel Igorevich, FrontEnd & BlockChain & Mobile Developer.
+  Hi, I'm FrontEnd & BlockChain & Mobile Developer.
   <br>
   💻 I love writing code and learn anythings about it
   <br>
